@@ -1,0 +1,16 @@
+# Temporales de Excel
+~$*.xls*
+*.tmp
+
+# Archivos generados de revisión
+*.png
+*.inspect.ndjson
+*.log
+
+# Dependencias y adjuntos locales
+node_modules/
+.codex-attachments/
+
+# Versiones de desarrollo y exportaciones duplicadas
+work/
+outputs/
